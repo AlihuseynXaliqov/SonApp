@@ -7,6 +7,10 @@
       "RelativeMoniker": "D:0:0:{A49242D4-F665-42EC-B19F-F48BD944974D}|SonMVCApp\\SonMVCApp.csproj|solutionrelative:sonmvcapp\\areas\\manage\\viewmodels\\agent\\createagentvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{A49242D4-F665-42EC-B19F-F48BD944974D}|SonMVCApp\\SonMVCApp.csproj|c:\\users\\i novbe\\source\\repos\\sonmvcapp\\sonmvcapp\\areas\\manage\\controllers\\agentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A49242D4-F665-42EC-B19F-F48BD944974D}|SonMVCApp\\SonMVCApp.csproj|solutionrelative:sonmvcapp\\areas\\manage\\controllers\\agentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{A49242D4-F665-42EC-B19F-F48BD944974D}|SonMVCApp\\SonMVCApp.csproj|c:\\users\\i novbe\\source\\repos\\sonmvcapp\\sonmvcapp\\views\\account\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{A49242D4-F665-42EC-B19F-F48BD944974D}|SonMVCApp\\SonMVCApp.csproj|solutionrelative:sonmvcapp\\views\\account\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
@@ -77,10 +81,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{A49242D4-F665-42EC-B19F-F48BD944974D}|SonMVCApp\\SonMVCApp.csproj|c:\\users\\i novbe\\source\\repos\\sonmvcapp\\sonmvcapp\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A49242D4-F665-42EC-B19F-F48BD944974D}|SonMVCApp\\SonMVCApp.csproj|solutionrelative:sonmvcapp\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A49242D4-F665-42EC-B19F-F48BD944974D}|SonMVCApp\\SonMVCApp.csproj|c:\\users\\i novbe\\source\\repos\\sonmvcapp\\sonmvcapp\\areas\\manage\\controllers\\agentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A49242D4-F665-42EC-B19F-F48BD944974D}|SonMVCApp\\SonMVCApp.csproj|solutionrelative:sonmvcapp\\areas\\manage\\controllers\\agentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A49242D4-F665-42EC-B19F-F48BD944974D}|SonMVCApp\\SonMVCApp.csproj|c:\\users\\i novbe\\source\\repos\\sonmvcapp\\sonmvcapp\\areas\\manage\\views\\agent\\update.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
@@ -186,11 +186,11 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 9,
+          "SelectedChildIndex": 8,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "Login.cshtml",
               "DocumentMoniker": "C:\\Users\\I Novbe\\source\\repos\\SonMVCApp\\SonMVCApp\\Views\\Account\\Login.cshtml",
               "RelativeDocumentMoniker": "SonMVCApp\\Views\\Account\\Login.cshtml",
@@ -203,7 +203,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 8,
               "Title": "Roles.cs",
               "DocumentMoniker": "C:\\Users\\I Novbe\\source\\repos\\SonMVCApp\\SonMVCApp\\Models\\Roles.cs",
               "RelativeDocumentMoniker": "SonMVCApp\\Models\\Roles.cs",
@@ -216,7 +216,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "Register.cshtml",
               "DocumentMoniker": "C:\\Users\\I Novbe\\source\\repos\\SonMVCApp\\SonMVCApp\\Views\\Account\\Register.cshtml",
               "RelativeDocumentMoniker": "SonMVCApp\\Views\\Account\\Register.cshtml",
@@ -229,7 +229,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 5,
               "Title": "AccountController.cs",
               "DocumentMoniker": "C:\\Users\\I Novbe\\source\\repos\\SonMVCApp\\SonMVCApp\\Controllers\\AccountController.cs",
               "RelativeDocumentMoniker": "SonMVCApp\\Controllers\\AccountController.cs",
@@ -243,19 +243,6 @@
             {
               "$type": "Document",
               "DocumentIndex": 10,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\I Novbe\\source\\repos\\SonMVCApp\\SonMVCApp\\Program.cs",
-              "RelativeDocumentMoniker": "SonMVCApp\\Program.cs",
-              "ToolTip": "C:\\Users\\I Novbe\\source\\repos\\SonMVCApp\\SonMVCApp\\Program.cs",
-              "RelativeToolTip": "SonMVCApp\\Program.cs",
-              "ViewState": "AgIAAAwAAAAAAAAAAAAgwBcAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-22T05:02:17.795Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
               "Title": "_ViewImports.cshtml",
               "DocumentMoniker": "C:\\Users\\I Novbe\\source\\repos\\SonMVCApp\\SonMVCApp\\Views\\_ViewImports.cshtml",
               "RelativeDocumentMoniker": "SonMVCApp\\Views\\_ViewImports.cshtml",
@@ -268,7 +255,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 9,
               "Title": "AgentConfiguration.cs",
               "DocumentMoniker": "C:\\Users\\I Novbe\\source\\repos\\SonMVCApp\\SonMVCApp\\DAL\\Configuration\\AgentConfiguration.cs",
               "RelativeDocumentMoniker": "SonMVCApp\\DAL\\Configuration\\AgentConfiguration.cs",
@@ -281,7 +268,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 7,
               "Title": "_Layout.cshtml",
               "DocumentMoniker": "C:\\Users\\I Novbe\\source\\repos\\SonMVCApp\\SonMVCApp\\Views\\Shared\\_Layout.cshtml",
               "RelativeDocumentMoniker": "SonMVCApp\\Views\\Shared\\_Layout.cshtml",
@@ -294,7 +281,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "RegisterVm.cs",
               "DocumentMoniker": "C:\\Users\\I Novbe\\source\\repos\\SonMVCApp\\SonMVCApp\\ViewModels\\RegisterVm.cs",
               "RelativeDocumentMoniker": "SonMVCApp\\ViewModels\\RegisterVm.cs",
@@ -313,14 +300,40 @@
               "RelativeDocumentMoniker": "SonMVCApp\\Areas\\Manage\\ViewModels\\Agent\\CreateAgentVm.cs",
               "ToolTip": "C:\\Users\\I Novbe\\source\\repos\\SonMVCApp\\SonMVCApp\\Areas\\Manage\\ViewModels\\Agent\\CreateAgentVm.cs",
               "RelativeToolTip": "SonMVCApp\\Areas\\Manage\\ViewModels\\Agent\\CreateAgentVm.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAwA8AAAA1AAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAQAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-01-22T05:50:22.219Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AgentController.cs",
+              "DocumentMoniker": "C:\\Users\\I Novbe\\source\\repos\\SonMVCApp\\SonMVCApp\\Areas\\Manage\\Controllers\\AgentController.cs",
+              "RelativeDocumentMoniker": "SonMVCApp\\Areas\\Manage\\Controllers\\AgentController.cs",
+              "ToolTip": "C:\\Users\\I Novbe\\source\\repos\\SonMVCApp\\SonMVCApp\\Areas\\Manage\\Controllers\\AgentController.cs",
+              "RelativeToolTip": "SonMVCApp\\Areas\\Manage\\Controllers\\AgentController.cs",
+              "ViewState": "AgIAACEAAAAAAAAAAAAuwDUAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-22T05:29:21.954Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 11,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\I Novbe\\source\\repos\\SonMVCApp\\SonMVCApp\\Program.cs",
+              "RelativeDocumentMoniker": "SonMVCApp\\Program.cs",
+              "ToolTip": "C:\\Users\\I Novbe\\source\\repos\\SonMVCApp\\SonMVCApp\\Program.cs",
+              "RelativeToolTip": "SonMVCApp\\Program.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAgwBcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-22T05:02:17.795Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
               "Title": "ScaffoldingReadMe.txt",
               "DocumentMoniker": "C:\\Users\\I Novbe\\source\\repos\\SonMVCApp\\SonMVCApp\\ScaffoldingReadMe.txt",
               "RelativeDocumentMoniker": "SonMVCApp\\ScaffoldingReadMe.txt",
@@ -333,7 +346,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 13,
               "Title": "CreatePositionVm.cs",
               "DocumentMoniker": "C:\\Users\\I Novbe\\source\\repos\\SonMVCApp\\SonMVCApp\\Areas\\Manage\\ViewModels\\Position\\CreatePositionVm.cs",
               "RelativeDocumentMoniker": "SonMVCApp\\Areas\\Manage\\ViewModels\\Position\\CreatePositionVm.cs",
@@ -346,7 +359,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 6,
               "Title": "AppUser.cs",
               "DocumentMoniker": "C:\\Users\\I Novbe\\source\\repos\\SonMVCApp\\SonMVCApp\\Models\\AppUser.cs",
               "RelativeDocumentMoniker": "SonMVCApp\\Models\\AppUser.cs",
@@ -359,7 +372,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 14,
               "Title": "LoginVm.cs",
               "DocumentMoniker": "C:\\Users\\I Novbe\\source\\repos\\SonMVCApp\\SonMVCApp\\ViewModels\\LoginVm.cs",
               "RelativeDocumentMoniker": "SonMVCApp\\ViewModels\\LoginVm.cs",
@@ -372,7 +385,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 15,
               "Title": "BaseEntity.cs",
               "DocumentMoniker": "C:\\Users\\I Novbe\\source\\repos\\SonMVCApp\\SonMVCApp\\Models\\Base\\BaseEntity.cs",
               "RelativeDocumentMoniker": "SonMVCApp\\Models\\Base\\BaseEntity.cs",
@@ -385,7 +398,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 16,
               "Title": "UpdateAgentVm.cs",
               "DocumentMoniker": "C:\\Users\\I Novbe\\source\\repos\\SonMVCApp\\SonMVCApp\\Areas\\Manage\\ViewModels\\Agent\\UpdateAgentVm.cs",
               "RelativeDocumentMoniker": "SonMVCApp\\Areas\\Manage\\ViewModels\\Agent\\UpdateAgentVm.cs",
@@ -394,19 +407,6 @@
               "ViewState": "AgIAAAAAAAAAAAAAAAAqwBMAAAArAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-01-22T05:50:07.656Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 19,
-              "Title": "AgentController.cs",
-              "DocumentMoniker": "C:\\Users\\I Novbe\\source\\repos\\SonMVCApp\\SonMVCApp\\Areas\\Manage\\Controllers\\AgentController.cs",
-              "RelativeDocumentMoniker": "SonMVCApp\\Areas\\Manage\\Controllers\\AgentController.cs",
-              "ToolTip": "C:\\Users\\I Novbe\\source\\repos\\SonMVCApp\\SonMVCApp\\Areas\\Manage\\Controllers\\AgentController.cs",
-              "RelativeToolTip": "SonMVCApp\\Areas\\Manage\\Controllers\\AgentController.cs",
-              "ViewState": "AgIAAF4AAAAAAAAAAAAkwHkAAABSAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-22T05:29:21.954Z",
               "EditorCaption": ""
             },
             {
@@ -476,7 +476,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 18,
+              "DocumentIndex": 19,
               "Title": "HomeController.cs",
               "DocumentMoniker": "C:\\Users\\I Novbe\\source\\repos\\SonMVCApp\\SonMVCApp\\Controllers\\HomeController.cs",
               "RelativeDocumentMoniker": "SonMVCApp\\Controllers\\HomeController.cs",
@@ -489,7 +489,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 17,
+              "DocumentIndex": 18,
               "Title": "_ViewStart.cshtml",
               "DocumentMoniker": "C:\\Users\\I Novbe\\source\\repos\\SonMVCApp\\SonMVCApp\\Views\\_ViewStart.cshtml",
               "RelativeDocumentMoniker": "SonMVCApp\\Views\\_ViewStart.cshtml",
@@ -502,7 +502,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
+              "DocumentIndex": 17,
               "Title": "Index.cshtml",
               "DocumentMoniker": "C:\\Users\\I Novbe\\source\\repos\\SonMVCApp\\SonMVCApp\\Views\\Home\\Index.cshtml",
               "RelativeDocumentMoniker": "SonMVCApp\\Views\\Home\\Index.cshtml",

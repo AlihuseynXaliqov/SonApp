@@ -147,10 +147,6 @@
       "RelativeMoniker": "D:0:0:{A49242D4-F665-42EC-B19F-F48BD944974D}|SonMVCApp\\SonMVCApp.csproj|solutionrelative:sonmvcapp\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\I Novbe\\source\\repos\\SonMVCApp\\SonMVCApp\\Migrations\\20250122053411_AddTables.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:SonMVCApp\\Migrations\\20250122053411_AddTables.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{A49242D4-F665-42EC-B19F-F48BD944974D}|SonMVCApp\\SonMVCApp.csproj|c:\\users\\i novbe\\source\\repos\\sonmvcapp\\sonmvcapp\\areas\\manage\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{A49242D4-F665-42EC-B19F-F48BD944974D}|SonMVCApp\\SonMVCApp.csproj|solutionrelative:sonmvcapp\\areas\\manage\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
@@ -177,6 +173,10 @@
     {
       "AbsoluteMoniker": "D:0:0:{A49242D4-F665-42EC-B19F-F48BD944974D}|SonMVCApp\\SonMVCApp.csproj|c:\\users\\i novbe\\source\\repos\\sonmvcapp\\sonmvcapp\\sonmvcapp.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
       "RelativeMoniker": "D:0:0:{A49242D4-F665-42EC-B19F-F48BD944974D}|SonMVCApp\\SonMVCApp.csproj|solutionrelative:sonmvcapp\\sonmvcapp.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A49242D4-F665-42EC-B19F-F48BD944974D}|SonMVCApp\\SonMVCApp.csproj|c:\\users\\i novbe\\source\\repos\\sonmvcapp\\sonmvcapp\\migrations\\20250122053411_addtables.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A49242D4-F665-42EC-B19F-F48BD944974D}|SonMVCApp\\SonMVCApp.csproj|solutionrelative:sonmvcapp\\migrations\\20250122053411_addtables.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -198,8 +198,7 @@
               "RelativeToolTip": "SonMVCApp\\Views\\Account\\Login.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAXAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-01-22T08:29:28.832Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-22T08:29:28.832Z"
             },
             {
               "$type": "Document",
@@ -211,8 +210,7 @@
               "RelativeToolTip": "SonMVCApp\\Models\\Roles.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAMAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-22T08:09:42.454Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-22T08:09:42.454Z"
             },
             {
               "$type": "Document",
@@ -224,8 +222,7 @@
               "RelativeToolTip": "SonMVCApp\\Views\\Account\\Register.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAA+AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-01-22T07:40:05.173Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-22T07:40:05.173Z"
             },
             {
               "$type": "Document",
@@ -237,8 +234,7 @@
               "RelativeToolTip": "SonMVCApp\\Controllers\\AccountController.cs",
               "ViewState": "AgIAACMAAAAAAAAAAAAwwDcAAAArAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-22T07:38:59.838Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-22T07:38:59.838Z"
             },
             {
               "$type": "Document",
@@ -250,8 +246,7 @@
               "RelativeToolTip": "SonMVCApp\\Views\\_ViewImports.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-01-22T04:56:24.053Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-22T04:56:24.053Z"
             },
             {
               "$type": "Document",
@@ -263,8 +258,7 @@
               "RelativeToolTip": "SonMVCApp\\DAL\\Configuration\\AgentConfiguration.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAABfAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-22T05:04:45.945Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-22T05:04:45.945Z"
             },
             {
               "$type": "Document",
@@ -276,8 +270,7 @@
               "RelativeToolTip": "SonMVCApp\\Views\\Shared\\_Layout.cshtml",
               "ViewState": "AgIAACwAAAAAAAAAAAAkwEoAAAAZAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-01-22T04:56:31.878Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-22T04:56:31.878Z"
             },
             {
               "$type": "Document",
@@ -289,8 +282,7 @@
               "RelativeToolTip": "SonMVCApp\\ViewModels\\RegisterVm.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAACAAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-22T07:40:39.295Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-22T07:40:39.295Z"
             },
             {
               "$type": "Document",
@@ -315,8 +307,7 @@
               "RelativeToolTip": "SonMVCApp\\Areas\\Manage\\Controllers\\AgentController.cs",
               "ViewState": "AgIAACEAAAAAAAAAAAAuwDUAAAAXAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-22T05:29:21.954Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-22T05:29:21.954Z"
             },
             {
               "$type": "Document",
@@ -328,8 +319,7 @@
               "RelativeToolTip": "SonMVCApp\\Program.cs",
               "ViewState": "AgIAAAwAAAAAAAAAAAAgwBcAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-22T05:02:17.795Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-22T05:02:17.795Z"
             },
             {
               "$type": "Document",
@@ -341,8 +331,7 @@
               "RelativeToolTip": "SonMVCApp\\ScaffoldingReadMe.txt",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAABdAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
-              "WhenOpened": "2025-01-22T05:03:21.599Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-22T05:03:21.599Z"
             },
             {
               "$type": "Document",
@@ -354,8 +343,7 @@
               "RelativeToolTip": "SonMVCApp\\Areas\\Manage\\ViewModels\\Position\\CreatePositionVm.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-22T05:46:47.27Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-22T05:46:47.27Z"
             },
             {
               "$type": "Document",
@@ -367,8 +355,7 @@
               "RelativeToolTip": "SonMVCApp\\Models\\AppUser.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAApAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-22T05:08:30.851Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-22T05:08:30.851Z"
             },
             {
               "$type": "Document",
@@ -380,8 +367,7 @@
               "RelativeToolTip": "SonMVCApp\\ViewModels\\LoginVm.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-22T07:40:48.62Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-22T07:40:48.62Z"
             },
             {
               "$type": "Document",
@@ -393,8 +379,7 @@
               "RelativeToolTip": "SonMVCApp\\Models\\Base\\BaseEntity.cs",
               "ViewState": "AgIAAAcAAAAAAAAAAAAAAAQAAAAjAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-22T05:08:21.549Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-22T05:08:21.549Z"
             },
             {
               "$type": "Document",
@@ -406,8 +391,7 @@
               "RelativeToolTip": "SonMVCApp\\Areas\\Manage\\ViewModels\\Agent\\UpdateAgentVm.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAqwBMAAAArAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-22T05:50:07.656Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-22T05:50:07.656Z"
             },
             {
               "$type": "Document",
@@ -419,8 +403,7 @@
               "RelativeToolTip": "SonMVCApp\\Areas\\Manage\\Controllers\\PositionController.cs",
               "ViewState": "AgIAACYAAAAAAAAAAAAIwDMAAAAMAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-22T05:29:45.443Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-22T05:29:45.443Z"
             },
             {
               "$type": "Document",
@@ -432,8 +415,7 @@
               "RelativeToolTip": "SonMVCApp\\Areas\\Manage\\Views\\Agent\\Index.cshtml",
               "ViewState": "AgIAABsAAAAAAAAAAAAAAA0AAAAhAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-01-22T05:32:53.207Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-22T05:32:53.207Z"
             },
             {
               "$type": "Document",
@@ -445,8 +427,7 @@
               "RelativeToolTip": "SonMVCApp\\Areas\\Manage\\Views\\Position\\Index.cshtml",
               "ViewState": "AgIAAAEAAAAAAAAAAAAQwCYAAAAGAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-01-22T05:33:01.937Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-22T05:33:01.937Z"
             },
             {
               "$type": "Document",
@@ -458,8 +439,7 @@
               "RelativeToolTip": "SonMVCApp\\Areas\\Manage\\Views\\_ViewImports.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-01-22T05:24:50.439Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-22T05:24:50.439Z"
             },
             {
               "$type": "Document",
@@ -471,8 +451,7 @@
               "RelativeToolTip": "SonMVCApp\\Areas\\Manage\\Views\\Position\\Create.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAlAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-01-22T06:17:01.796Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-22T06:17:01.796Z"
             },
             {
               "$type": "Document",
@@ -484,8 +463,7 @@
               "RelativeToolTip": "SonMVCApp\\Controllers\\HomeController.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAeAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-22T04:54:09.865Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-22T04:54:09.865Z"
             },
             {
               "$type": "Document",
@@ -497,8 +475,7 @@
               "RelativeToolTip": "SonMVCApp\\Views\\_ViewStart.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-01-22T04:56:25.319Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-22T04:56:25.319Z"
             },
             {
               "$type": "Document",
@@ -510,8 +487,7 @@
               "RelativeToolTip": "SonMVCApp\\Views\\Home\\Index.cshtml",
               "ViewState": "AgIAAMgBAAAAAAAAAAAewOcBAAALAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-01-22T04:54:14.525Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-22T04:54:14.525Z"
             },
             {
               "$type": "Document",
@@ -523,8 +499,7 @@
               "RelativeToolTip": "SonMVCApp\\Areas\\Manage\\Views\\Position\\Update.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-01-22T06:17:16.28Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-22T06:17:16.28Z"
             },
             {
               "$type": "Document",
@@ -536,8 +511,7 @@
               "RelativeToolTip": "SonMVCApp\\Helpers\\FileExtention.cs",
               "ViewState": "AgIAAAUAAAAAAAAAAAAowB4AAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-22T06:30:48.474Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-22T06:30:48.474Z"
             },
             {
               "$type": "Document",
@@ -549,8 +523,7 @@
               "RelativeToolTip": "SonMVCApp\\Areas\\Manage\\Views\\Agent\\Create.cshtml",
               "ViewState": "AgIAAAkAAAAAAAAAAAAAACQAAAAGAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-01-22T07:00:45.231Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-22T07:00:45.231Z"
             },
             {
               "$type": "Document",
@@ -562,8 +535,7 @@
               "RelativeToolTip": "SonMVCApp\\Areas\\Manage\\Views\\Agent\\Update.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAA2AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-01-22T07:06:03.1Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-22T07:06:03.1Z"
             },
             {
               "$type": "Document",
@@ -575,8 +547,7 @@
               "RelativeToolTip": "SonMVCApp\\Areas\\Manage\\Controllers\\HomeController.cs",
               "ViewState": "AgIAAAIAAAAAAAAAAAAIwAQAAAARAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-22T05:23:28.943Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-22T05:23:28.943Z"
             },
             {
               "$type": "Document",
@@ -588,8 +559,7 @@
               "RelativeToolTip": "SonMVCApp\\Areas\\Manage\\ViewModels\\Position\\UpdatePositionVm.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-22T05:46:36.315Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-22T05:46:36.315Z"
             },
             {
               "$type": "Document",
@@ -601,8 +571,7 @@
               "RelativeToolTip": "SonMVCApp\\Areas\\Manage\\Helpers\\Mapper\\AgentProfile.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAdAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-22T05:43:22.443Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-22T05:43:22.443Z"
             },
             {
               "$type": "Document",
@@ -614,8 +583,7 @@
               "RelativeToolTip": "SonMVCApp\\Areas\\Manage\\Helpers\\Exception\\NegativeIdException.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-22T05:36:55.6Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-22T05:36:55.6Z"
             },
             {
               "$type": "Document",
@@ -627,8 +595,7 @@
               "RelativeToolTip": "SonMVCApp\\Areas\\Manage\\Helpers\\Mapper\\PositionProfile.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAvAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-22T05:43:32.319Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-22T05:43:32.319Z"
             },
             {
               "$type": "Document",
@@ -640,8 +607,7 @@
               "RelativeToolTip": "SonMVCApp\\Areas\\Manage\\Helpers\\Exception\\NotFoundException.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAABEAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-22T05:37:27.613Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-22T05:37:27.613Z"
             },
             {
               "$type": "Document",
@@ -653,12 +619,11 @@
               "RelativeToolTip": "SonMVCApp\\appsettings.json",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAABcAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-01-22T05:34:13.582Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-22T05:34:13.582Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 36,
+              "DocumentIndex": 43,
               "Title": "20250122053411_AddTables.cs",
               "DocumentMoniker": "C:\\Users\\I Novbe\\source\\repos\\SonMVCApp\\SonMVCApp\\Migrations\\20250122053411_AddTables.cs",
               "RelativeDocumentMoniker": "SonMVCApp\\Migrations\\20250122053411_AddTables.cs",
@@ -666,12 +631,11 @@
               "RelativeToolTip": "SonMVCApp\\Migrations\\20250122053411_AddTables.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-22T05:34:12.081Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-22T05:34:12.081Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 38,
+              "DocumentIndex": 37,
               "Title": "Index.cshtml",
               "DocumentMoniker": "C:\\Users\\I Novbe\\source\\repos\\SonMVCApp\\SonMVCApp\\Areas\\Manage\\Views\\Home\\Index.cshtml",
               "RelativeDocumentMoniker": "SonMVCApp\\Areas\\Manage\\Views\\Home\\Index.cshtml",
@@ -679,12 +643,11 @@
               "RelativeToolTip": "SonMVCApp\\Areas\\Manage\\Views\\Home\\Index.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAHoAAABNAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-01-22T05:25:27.564Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-22T05:25:27.564Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 39,
+              "DocumentIndex": 38,
               "Title": "_ViewStart.cshtml",
               "DocumentMoniker": "C:\\Users\\I Novbe\\source\\repos\\SonMVCApp\\SonMVCApp\\Areas\\Manage\\Views\\_ViewStart.cshtml",
               "RelativeDocumentMoniker": "SonMVCApp\\Areas\\Manage\\Views\\_ViewStart.cshtml",
@@ -692,12 +655,11 @@
               "RelativeToolTip": "SonMVCApp\\Areas\\Manage\\Views\\_ViewStart.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-01-22T05:24:30.885Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-22T05:24:30.885Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 37,
+              "DocumentIndex": 36,
               "Title": "_Layout.cshtml",
               "DocumentMoniker": "C:\\Users\\I Novbe\\source\\repos\\SonMVCApp\\SonMVCApp\\Areas\\Manage\\Views\\Shared\\_Layout.cshtml",
               "RelativeDocumentMoniker": "SonMVCApp\\Areas\\Manage\\Views\\Shared\\_Layout.cshtml",
@@ -705,12 +667,11 @@
               "RelativeToolTip": "SonMVCApp\\Areas\\Manage\\Views\\Shared\\_Layout.cshtml",
               "ViewState": "AgIAADIAAAAAAAAAAAAAAEEAAABmAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-01-22T05:24:18.72Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-22T05:24:18.72Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 41,
+              "DocumentIndex": 40,
               "Title": "Position.cs",
               "DocumentMoniker": "C:\\Users\\I Novbe\\source\\repos\\SonMVCApp\\SonMVCApp\\Models\\Position.cs",
               "RelativeDocumentMoniker": "SonMVCApp\\Models\\Position.cs",
@@ -718,12 +679,11 @@
               "RelativeToolTip": "SonMVCApp\\Models\\Position.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAqwAQAAAARAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-22T05:09:11.461Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-22T05:09:11.461Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 42,
+              "DocumentIndex": 41,
               "Title": "Agent.cs",
               "DocumentMoniker": "C:\\Users\\I Novbe\\source\\repos\\SonMVCApp\\SonMVCApp\\Models\\Agent.cs",
               "RelativeDocumentMoniker": "SonMVCApp\\Models\\Agent.cs",
@@ -731,12 +691,11 @@
               "RelativeToolTip": "SonMVCApp\\Models\\Agent.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAuAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-22T05:08:59.17Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-22T05:08:59.17Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 40,
+              "DocumentIndex": 39,
               "Title": "AppDbContext.cs",
               "DocumentMoniker": "C:\\Users\\I Novbe\\source\\repos\\SonMVCApp\\SonMVCApp\\DAL\\Context\\AppDbContext.cs",
               "RelativeDocumentMoniker": "SonMVCApp\\DAL\\Context\\AppDbContext.cs",
@@ -744,21 +703,19 @@
               "RelativeToolTip": "SonMVCApp\\DAL\\Context\\AppDbContext.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAABVAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-22T05:04:20.308Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-22T05:04:20.308Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 43,
-              "Title": "SonMVCApp",
+              "DocumentIndex": 42,
+              "Title": "SonMVCApp.csproj",
               "DocumentMoniker": "C:\\Users\\I Novbe\\source\\repos\\SonMVCApp\\SonMVCApp\\SonMVCApp.csproj",
               "RelativeDocumentMoniker": "SonMVCApp\\SonMVCApp.csproj",
               "ToolTip": "C:\\Users\\I Novbe\\source\\repos\\SonMVCApp\\SonMVCApp\\SonMVCApp.csproj",
               "RelativeToolTip": "SonMVCApp\\SonMVCApp.csproj",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-01-22T05:03:03.865Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-22T05:03:03.865Z"
             }
           ]
         }
